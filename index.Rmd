@@ -1,4 +1,4 @@
-blish---
+---
 title       : Diagnosing Acute Inflamation
 subtitle    : A Machine Learning Approach
 author      : Aneesh R. Sathe
